@@ -1,9 +1,9 @@
 # this is my first page
 
--welcome
+| welcome
 
--[ ] first
--[ ] second
+- [ ] first
+- [ ] second
 
 ```javascript
 
