@@ -2,5 +2,5 @@
 
 - welcome
 
--[] first
--[] second
+-[ ] first
+-[ ] second
